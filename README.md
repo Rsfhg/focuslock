@@ -43,7 +43,7 @@ Kotlin、Compose、Room；应用包名 `com.local.focuslock`。开发环境：JD
 使用 Android Studio 打开仓库，安装相应 SDK，配置本机 `local.properties`，然后执行：
 
 ```sh
-./gradlew :app:testDebugUnitTest :app:lintDebug :app:assembleDebug
+bash ./gradlew :app:testDebugUnitTest :app:lintDebug :app:assembleDebug
 ```
 
 Windows 使用 `gradlew.bat`。中文路径可运行 `./build.ps1 -SdkPath '你的 SDK 路径'`，脚本会建立临时英文路径链接。本机配置、构建缓存、签名密钥和手机原始诊断不在公开仓库中。
