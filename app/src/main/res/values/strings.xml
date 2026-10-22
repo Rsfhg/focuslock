@@ -1,0 +1,1 @@
+<resources><string name="app_name">限时用</string><string name="accessibility_description">识别当前应用，在进入受限应用时让你申请时长，到期返回桌面。只使用应用身份和窗口状态，不读取或保存页面文字。你可以随时在系统设置中关闭此服务。</string></resources>
